@@ -1,7 +1,7 @@
 # Abion-Technology-HTML
 
-Homepage for Abion Technology in static html<br>
-https://abion.net<br>
+Homepage for Abion Technology in static html
+https://abion.net
 
 By Michael G. Workman<br>
 President & Lead Engineer<br>
